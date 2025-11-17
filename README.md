@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🎓 Physics student passionate about quantum computing
+<- 🎓 Physics student passionate about quantum computing
 - 🌱 Currently learning Python and quantum computing (Qiskit)
 - 💡 Love working on scientific coding & simulations
 - 🔭 Quantum algorithms with Qiskit (coming soon!)
-- 📊 Data analysis with Python
+- 📊 Data analysis with Python> 
